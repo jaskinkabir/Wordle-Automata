@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg400-1" LaunchTime="1745802933">
+  <File Type="REPORTS-TCL" Name="Wordle_Matcher_HDL_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="Wordle_Matcher_HDL_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="Wordle_Matcher_HDL.mmi"/>
+  <File Type="OPT-DRC" Name="Wordle_Matcher_HDL_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="Wordle_Matcher_HDL.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="Wordle_Matcher_HDL_route_status.pb"/>
+  <File Type="BG-BGN" Name="Wordle_Matcher_HDL.bgn"/>
+  <File Type="PLACE-UTIL" Name="Wordle_Matcher_HDL_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Wordle_Matcher_HDL_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="Wordle_Matcher_HDL_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="Wordle_Matcher_HDL.bin"/>
+  <File Type="PLACE-CTRL" Name="Wordle_Matcher_HDL_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="Wordle_Matcher_HDL_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="Wordle_Matcher_HDL_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="Wordle_Matcher_HDL.msk"/>
+  <File Type="BITSTR-RBT" Name="Wordle_Matcher_HDL.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Wordle_Matcher_HDL_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Wordle_Matcher_HDL_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Wordle_Matcher_HDL_route_status.rpt"/>
+  <File Type="PA-TCL" Name="Wordle_Matcher_HDL.tcl"/>
+  <File Type="ROUTE-PWR" Name="Wordle_Matcher_HDL_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="Wordle_Matcher_HDL_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="Wordle_Matcher_HDL_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="Wordle_Matcher_HDL_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="Wordle_Matcher_HDL.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Wordle_Matcher_HDL_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Wordle_Matcher_HDL_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Wordle_Matcher_HDL.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Wordle_Matcher_HDL_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="Wordle_Matcher_HDL_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="Wordle_Matcher_HDL.vdi"/>
+  <File Type="ROUTE-CLK" Name="Wordle_Matcher_HDL_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Wordle_Matcher_HDL_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Wordle_Matcher_HDL_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Wordle_Matcher_HDL_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Wordle_Matcher_HDL_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Wordle_Matcher_HDL_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Wordle_Matcher_HDL_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Wordle_Matcher_HDL_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Wordle_Matcher_HDL_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="Wordle_Matcher_HDL.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Wordle_Matcher_HDL_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="Wordle_Matcher_HDL.nky"/>
+  <File Type="BITSTR-BMM" Name="Wordle_Matcher_HDL_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="Wordle_Matcher_HDL.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Wordle_Matcher_HDL_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Wordle_Matcher_HDL_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Wordle_Matcher_HDL_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="Wordle_Matcher_HDL_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="Wordle_Matcher_HDL_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="Wordle_Matcher_HDL_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="Wordle_Matcher_HDL_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Wordle_Matcher_HDL_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="Wordle_Matcher_HDL_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Wordle_Matcher_HDL_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Wordle_Matcher_HDL_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="Wordle_Matcher_HDL.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="Wordle_Matcher_HDL_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="Wordle_Matcher_HDL_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="Wordle_Matcher_HDL.rcfi"/>
+  <File Type="CFI_FILE" Name="Wordle_Matcher_HDL.cfi"/>
+  <File Type="RNPI_FILE" Name="Wordle_Matcher_HDL.rnpi"/>
+  <File Type="NPI_FILE" Name="Wordle_Matcher_HDL.npi"/>
+  <File Type="RBD_FILE" Name="Wordle_Matcher_HDL.rbd"/>
+  <File Type="ROUTE-RQS" Name="Wordle_Matcher_HDL_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Wordle_Matcher_HDL_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/pos_fsm.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/cnt_fsm.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/wordle_fsm_reconfig.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/axi/Wordle_Matcher_HDL_slave_lite_v1_0_S00_AXI.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../wordle_fsm.srcs/axi/Wordle_Matcher_HDL_slave_lite_v1_0_S00_AXI.vhd"/>
+        <Attr Name="ImportTime" Val="1745866122"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/axi/Wordle_Matcher_HDL.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../wordle_fsm.srcs/axi/Wordle_Matcher_HDL.vhd"/>
+        <Attr Name="ImportTime" Val="1745866122"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../ip_repo/component.xml">
+      <FileInfo SFType="IPXACT"/>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Wordle_Matcher_HDL"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/wordle_fsm_reconfig.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

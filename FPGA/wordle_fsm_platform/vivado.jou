@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Apr 28 14:46:50 2025
+# Process ID         : 22064
+# Current directory  : D:/Xilinx/reconfig/wordle_fsm_platform
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13044 D:\Xilinx\reconfig\wordle_fsm_platform\wordle_fsm_platform.xpr
+# Log file           : D:/Xilinx/reconfig/wordle_fsm_platform/vivado.log
+# Journal file       : D:/Xilinx/reconfig/wordle_fsm_platform\vivado.jou
+# Running On         : Jaskin-Laptop
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16474 MB
+# Swap memory        : 12594 MB
+# Total Virtual      : 29068 MB
+# Available Virtual  : 5571 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/Xilinx/reconfig/wordle_fsm_platform/wordle_fsm_platform.xpr
+update_compile_order -fileset sources_1
+archive_project D:/Xilinx/reconfig/wordle_fsm_platform.xpr.zip -temp_dir D:/Xilinx/reconfig/wordle_fsm_platform/.Xil/Vivado-22064-Jaskin-Laptop -force -include_local_ip_cache -include_config_settings

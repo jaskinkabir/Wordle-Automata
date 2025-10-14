@@ -1,0 +1,25 @@
+verilog xil_defaultlib --include "D:/Xilinx/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/ec67/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/86fe/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/f0b6/hdl/verilog" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/0127/hdl/verilog" \
+"../../../bd/top/ip/top_processing_system7_0_0/sim/top_processing_system7_0_0.v" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/sim/bd_b57a.v" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_0/sim/bd_b57a_one_0.v" \
+
+sv xil_defaultlib --include "D:/Xilinx/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/ec67/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/86fe/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/f0b6/hdl/verilog" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/0127/hdl/verilog" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_2/sim/bd_b57a_s00mmu_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_3/sim/bd_b57a_s00tr_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_4/sim/bd_b57a_s00sic_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_5/sim/bd_b57a_s00a2s_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_6/sim/bd_b57a_sarn_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_7/sim/bd_b57a_srn_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_8/sim/bd_b57a_sawn_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_9/sim/bd_b57a_swn_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_10/sim/bd_b57a_sbn_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_11/sim/bd_b57a_m00s2a_0.sv" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_12/sim/bd_b57a_m00e_0.sv" \
+
+verilog xil_defaultlib --include "D:/Xilinx/Vivado/2024.2/data/xilinx_vip/include" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/ec67/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/86fe/hdl" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/f0b6/hdl/verilog" --include "../../../../wordle_fsm_platform.gen/sources_1/bd/top/ipshared/0127/hdl/verilog" \
+"../../../bd/top/ip/top_axi_smc_3/sim/top_axi_smc_3.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

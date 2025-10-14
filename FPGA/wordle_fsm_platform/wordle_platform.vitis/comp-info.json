@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "hasAbsoluteProjectPath": true,
+      "extraPathToUnzip": [],
+      "prevProjectPath": "D:\\Xilinx\\reconfig\\wordle_fsm_platform\\wordle_fsm_platform.vitis\\platform",
+      "name": "platform",
+      "type": "PLATFORM",
+      "embeddedPlatform": ""
+    },
+    {
+      "hasAbsoluteProjectPath": true,
+      "extraPathToUnzip": [],
+      "prevProjectPath": "D:\\Xilinx\\reconfig\\wordle_fsm_platform\\wordle_fsm_platform.vitis\\wordle_sw",
+      "name": "wordle_sw",
+      "type": "HOST",
+      "embeddedPlatform": "platform"
+    }
+  ],
+  "system-project": [],
+  "com.ide.version": "2024.2"
+}

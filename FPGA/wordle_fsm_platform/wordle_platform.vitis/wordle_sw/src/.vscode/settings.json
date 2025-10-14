@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "match_word.h": "c",
+        "test_helpers.h": "c"
+    }
+}

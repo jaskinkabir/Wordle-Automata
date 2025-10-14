@@ -1,0 +1,13 @@
+vhdl xil_defaultlib  \
+"../../../bd/top/ipshared/164a/src/pos_fsm.vhd" \
+"../../../bd/top/ipshared/164a/src/cnt_fsm.vhd" \
+"../../../bd/top/ipshared/164a/src/wordle_fsm_reconfig.vhd" \
+"../../../bd/top/ipshared/164a/src/Wordle_Matcher_HDL_slave_lite_v1_0_S00_AXI.vhd" \
+"../../../bd/top/ipshared/164a/src/Wordle_Matcher_HDL.vhd" \
+"../../../bd/top/ip/top_Wordle_Matcher_HDL_0_4/sim/top_Wordle_Matcher_HDL_0_4.vhd" \
+"../../../bd/top/ip/top_axi_smc_3/bd_0/ip/ip_1/sim/bd_b57a_psr_aclk_0.vhd" \
+"../../../bd/top/ip/top_rst_ps7_0_100M_3/sim/top_rst_ps7_0_100M_3.vhd" \
+"../../../bd/top/sim/top.vhd" \
+
+# Do not sort compile order
+nosort
